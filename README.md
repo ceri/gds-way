@@ -6,13 +6,13 @@
 
 At the bottom of each page of the [hosted GDS Way](https://gds-way.digital.cabinet-office.gov.uk/) there is a `View source` link. This link will take you to to the corresponding [Github](https://github.com/alphagov/gds-way) page where you can use the pencil icon (:pencil:) in the interface to propose edits to a page.
 
-Once you have made your changes you can write a description, click the green `Propose changes` button, and on the following page clickj the green `Create pull request` button.
+Once you have made your changes you can write a description, click the green `Propose changes` button, and on the following page click the green `Create pull request` button.
 
 ### Making documentation changes (locally)
 
 To make changes edit the source files in the [source](source) folder.
 
-The bulk of the documentaion that makes up the GDS Way can be found in files located in the `source/standards` and `source/manuals` directories.
+The bulk of the documentation that makes up the GDS Way can be found in files located in the `source/standards` and `source/manuals` directories.
 
 ### Adding documentation
 
